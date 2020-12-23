@@ -1,0 +1,74 @@
+! Allow
+!
+! Media
+@@||ad.nl^$important
+@@||talk.nu.nl^$important
+@@||btg.mtvnservices.com^$important
+@@||spotify.com^$important
+@@||quadia-a.akamaihd.net^$important
+@@||livestream-media.tweedekamer.nl^$important
+@@||www.ziggogo.tv^$important
+@@||horizon.tv^$important
+!
+! Betting
+@@||olbg.com^$important
+@@||secure.widget.cloud.opta.net^$important
+@@||sports.williamhill.com^$important
+@@||open.http.mp.streamamg.com^$important
+@@||attheraces.com^$important
+!
+! Social
+@@||facebook.com^$important
+@@||fbcdn.net^$important
+@@||fb.com^$important
+@@||pinterest.com^$important
+@@||graph.instagram.com^$important
+@@||static-exp1.licdn.com^$important
+@@||web.whatsapp.com^$important
+!
+! Microsoft/Windows/Outlook
+@@||1drv.ms^$important
+@@||attachments.office.net^$important
+@@||blobs.officehome.msocdn.com^$important
+@@||login.microsoftonline.com^$important
+@@||login.windows.net^$important
+@@||onedrive.live.com^$important
+@@||outlook.office365.com^$important
+@@||outlook.office.com^$important
+@@||storage.live.com^$important
+!
+! myrenault app
+@@||accounts.eu1.gigya.com^$important
+@@||socialize.eu1.gigya.com^$important
+@@||cdns.eu1.gigya.com^$important
+!
+! Shopping
+@@||reebok.nl^$important
+@@||reebok.com^$important
+@@||adidas.com^$important
+@@||primedia.primark.com^$important
+@@||zalando.nl^$important
+!
+! Misc
+@@||www.msci.com^$important
+@@||images-eu.ssl-images-amazon.com^$important
+@@||duckduckgo.com^$important
+@@||ajax.googleapis.com^$important
+@@||id.atlassian.com^$important
+!
+!
+!
+! Block
+!
+! iesnare (https://caanberry.com/what-is-iesnare-how-to-block-it/)
+||iesnare.com^$important
+||iesnare.co.uk^$important
+||iovation.com^$important
+||iovation.co.uk^$important
+!
+! chat
+||eu.usefirefly.com^$important
+!
+! pinterest
+||trk.pinterest.com^$important
+||log.pinterest.com^$important
