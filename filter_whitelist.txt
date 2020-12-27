@@ -51,7 +51,7 @@
 !
 ! Misc
 @@||www.msci.com^$important
-@@||images-eu.ssl-images-amazon.com^$important
+@@||images-*.ssl-images-amazon.com^$important
 @@||duckduckgo.com^$important
 @@||ajax.googleapis.com^$important
 @@||id.atlassian.com^$important
