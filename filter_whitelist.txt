@@ -16,6 +16,7 @@
 @@||sports.williamhill.com^$important
 @@||open.http.mp.streamamg.com^$important
 @@||attheraces.com^$important
+@@||promos.betfair.com^$important
 !
 ! Social
 @@||facebook.com^$important
@@ -55,6 +56,9 @@
 @@||duckduckgo.com^$important
 @@||ajax.googleapis.com^$important
 @@||id.atlassian.com^$important
+@@||android.clients.google.com^$important
+@@||digid.nl^$important
+@@||cdn.accounts.nintendo.com^$important
 !
 !
 !
