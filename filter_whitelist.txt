@@ -17,6 +17,7 @@
 @@||open.http.mp.streamamg.com^$important
 @@||attheraces.com^$important
 @@||promos.betfair.com^$important
+@@||www.timeform.com^$important
 !
 ! Social
 @@||facebook.com^$important
@@ -59,6 +60,14 @@
 @@||android.clients.google.com^$important
 @@||digid.nl^$important
 @@||cdn.accounts.nintendo.com^$important
+@@||mijn.overheid.nl^$important
+@@||www.crunch.co.uk^$important
+@@||accounts.crunch.co.uk^$important
+@@||my.crunch.co.uk^$important
+@@||www.abnamro.nl^$important
+@@||real-debrid.com^$important
+@@||www.iombank.com^$important
+@@||supportcentre.iombank.com^$important
 !
 !
 !
