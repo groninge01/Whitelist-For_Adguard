@@ -9,6 +9,8 @@
 @@||livestream-media.tweedekamer.nl^$important
 @@||www.ziggogo.tv^$important
 @@||horizon.tv^$important
+@@||www.theguardian.com^$important
+@@||i.guim.co.uk^$important
 !
 ! Betting
 @@||olbg.com^$important
@@ -18,6 +20,7 @@
 @@||attheraces.com^$important
 @@||promos.betfair.com^$important
 @@||www.timeform.com^$important
+@@||www.racingpost.com^$important
 !
 ! Social
 @@||facebook.com^$important
@@ -27,6 +30,7 @@
 @@||graph.instagram.com^$important
 @@||static-exp1.licdn.com^$important
 @@||web.whatsapp.com^$important
+@@||t.co^$important
 !
 ! Microsoft/Windows/Outlook
 @@||1drv.ms^$important
@@ -38,6 +42,8 @@
 @@||outlook.office365.com^$important
 @@||outlook.office.com^$important
 @@||storage.live.com^$important
+@@||www.hotmail.com^$important
+@@||logincdn.msauth.net^$important
 !
 ! myrenault app
 @@||accounts.eu1.gigya.com^$important
@@ -68,6 +74,16 @@
 @@||real-debrid.com^$important
 @@||www.iombank.com^$important
 @@||supportcentre.iombank.com^$important
+
+@@||www.gov.uk^$important
+@@||www.regus.nl^$important
+@@||www.regus.com^$important
+@@||community.revolut.com^$important
+@@||*.discourse-cdn.com^$important
+@@||cdn.buienradar.nl^$important
+@@||www.rvo.nl^$important
+@@||www.doingbusiness.org^$important
+@@||aka.hmrc.gov.uk^$important
 !
 !
 !
