@@ -1,3 +1,20 @@
+! Block
+!
+! iesnare (https://caanberry.com/what-is-iesnare-how-to-block-it/)
+||iesnare.com^$important
+||iesnare.co.uk^$important
+||iovation.com^$important
+||iovation.co.uk^$important
+!
+! chat
+||eu.usefirefly.com^$important
+!
+! pinterest
+||trk.pinterest.com^$important
+||log.pinterest.com^$important
+!
+!
+!
 ! Allow
 !
 ! Media
@@ -26,7 +43,7 @@
 @@||facebook.com^$important
 @@||fbcdn.net^$important
 @@||fb.com^$important
-@@||pinterest.com^$important
+@@||*.pinterest.com^$important
 @@||graph.instagram.com^$important
 @@||static-exp1.licdn.com^$important
 @@||web.whatsapp.com^$important
@@ -84,20 +101,3 @@
 @@||www.rvo.nl^$important
 @@||www.doingbusiness.org^$important
 @@||aka.hmrc.gov.uk^$important
-!
-!
-!
-! Block
-!
-! iesnare (https://caanberry.com/what-is-iesnare-how-to-block-it/)
-||iesnare.com^$important
-||iesnare.co.uk^$important
-||iovation.com^$important
-||iovation.co.uk^$important
-!
-! chat
-||eu.usefirefly.com^$important
-!
-! pinterest
-||trk.pinterest.com^$important
-||log.pinterest.com^$important
