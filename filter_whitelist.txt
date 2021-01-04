@@ -9,10 +9,6 @@
 ! chat
 ||eu.usefirefly.com^$important
 !
-! pinterest
-||trk.pinterest.com^$important
-||log.pinterest.com^$important
-!
 !
 !
 ! Allow
@@ -43,7 +39,8 @@
 @@||facebook.com^$important
 @@||fbcdn.net^$important
 @@||fb.com^$important
-@@||*.pinterest.com^$important
+@@||api.pinterest.com^$important
+@@||www.pinterest.com^$important
 @@||graph.instagram.com^$important
 @@||static-exp1.licdn.com^$important
 @@||web.whatsapp.com^$important
