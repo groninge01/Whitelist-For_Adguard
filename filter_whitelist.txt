@@ -34,6 +34,9 @@
 @@||promos.betfair.com^$important
 @@||www.timeform.com^$important
 @@||www.racingpost.com^$important
+@@||community.betfair.com^$important
+@@||community.cdnbf.net^$important
+@@||betting.betfair.com^$important
 !
 ! Social
 @@||facebook.com^$important
@@ -45,6 +48,8 @@
 @@||static-exp1.licdn.com^$important
 @@||web.whatsapp.com^$important
 @@||t.co^$important
+@@||i.pinimg.com^$important
+@@||s.pinimg.com^$important
 !
 ! Microsoft/Windows/Outlook
 @@||1drv.ms^$important
@@ -58,6 +63,19 @@
 @@||storage.live.com^$important
 @@||www.hotmail.com^$important
 @@||logincdn.msauth.net^$important
+@@||ictsaks-my.sharepoint.com^$important
+@@||euc-word-edit.officeapps.live.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||statics.teams.cdn.office.net^$important
+@@||eu-api.asm.skype.com^$important
+@@||attachment.outlook.live.net^$important
+!
+!
+! Google
+@@||classroom.google.com^$important
+@@||forms.gle^$important
+@@||ajax.googleapis.com^$important
+@@||android.clients.google.com^$important
 !
 ! myrenault app
 @@||accounts.eu1.gigya.com^$important
@@ -75,9 +93,7 @@
 @@||www.msci.com^$important
 @@||images-*.ssl-images-amazon.com^$important
 @@||duckduckgo.com^$important
-@@||ajax.googleapis.com^$important
 @@||id.atlassian.com^$important
-@@||android.clients.google.com^$important
 @@||digid.nl^$important
 @@||cdn.accounts.nintendo.com^$important
 @@||mijn.overheid.nl^$important
@@ -88,7 +104,6 @@
 @@||real-debrid.com^$important
 @@||www.iombank.com^$important
 @@||supportcentre.iombank.com^$important
-
 @@||www.gov.uk^$important
 @@||www.regus.nl^$important
 @@||www.regus.com^$important
@@ -98,3 +113,5 @@
 @@||www.rvo.nl^$important
 @@||www.doingbusiness.org^$important
 @@||aka.hmrc.gov.uk^$important
+@@||assets.publishing.service.gov.uk^$important
+@@||pcc.magister.net^$important
