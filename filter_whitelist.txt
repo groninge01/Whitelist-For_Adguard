@@ -58,11 +58,6 @@
 @@||t.co^$important
 @@||i.pinimg.com^$important
 @@||s.pinimg.com^$important
-@@||domain.yandex.com^$important
-@@||yandex.com^$important
-@@||yastatic.net^$important
-@@||connect.yandex.ru^$important
-@@||yandex.ru^$important
 @@||s.imgur.com^$important
 @@||m.imgur.com^$important
 @@||api.imgur.com^$important
