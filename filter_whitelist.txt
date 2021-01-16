@@ -7,7 +7,7 @@
 ||iovation.co.uk^$important
 !
 ! chat
-||eu.usefirefly.com^$important
+||*.usefirefly.com^$important
 !
 ! Misc
 !
