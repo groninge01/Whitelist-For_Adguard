@@ -9,6 +9,5 @@
 ! chat
 ||eu.usefirefly.com^$important
 !
-! Misc
-!
-!
+! Google
+||www.googleadservices.com^$important
