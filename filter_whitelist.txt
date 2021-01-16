@@ -9,6 +9,8 @@
 ! chat
 ||eu.usefirefly.com^$important
 !
+! Misc
+||adservice.google.com^$important
 !
 !
 ! Allow
@@ -24,6 +26,10 @@
 @@||horizon.tv^$important
 @@||www.theguardian.com^$important
 @@||i.guim.co.uk^$important
+@@||fresnel.vimeocdn.com^$important
+@@||i.vimeocdn.com^$important
+@@||f.vimeocdn.com^$important
+@@||theguardian.com^$important
 !
 ! Betting
 @@||olbg.com^$important
@@ -37,6 +43,8 @@
 @@||community.betfair.com^$important
 @@||community.cdnbf.net^$important
 @@||betting.betfair.com^$important
+@@||smarkets.com^$important
+@@||images.timeform.com^$important
 !
 ! Social
 @@||facebook.com^$important
@@ -50,6 +58,19 @@
 @@||t.co^$important
 @@||i.pinimg.com^$important
 @@||s.pinimg.com^$important
+@@||domain.yandex.com^$important
+@@||yandex.com^$important
+@@||yastatic.net^$important
+@@||connect.yandex.ru^$important
+@@||yandex.ru^$important
+@@||s.imgur.com^$important
+@@||m.imgur.com^$important
+@@||api.imgur.com^$important
+@@||i.imgur.com^$important
+@@||p.imgur.com^$important
+@@||abs.twimg.com^$important
+@@||api.twitter.com^$important
+@@||pbs.twimg.com^$important
 !
 ! Microsoft/Windows/Outlook
 @@||1drv.ms^$important
@@ -69,13 +90,17 @@
 @@||statics.teams.cdn.office.net^$important
 @@||eu-api.asm.skype.com^$important
 @@||attachment.outlook.live.net^$important
-!
+@@||aadcdn.msftauth.net^$important
+@@||aadcdn.msauth.net^$important
+@@||powerpoint.officeapps.live.com^$important
 !
 ! Google
 @@||classroom.google.com^$important
 @@||forms.gle^$important
 @@||ajax.googleapis.com^$important
 @@||android.clients.google.com^$important
+@@||*.google.com^$important
+@@||www.google.nl^$important
 !
 ! myrenault app
 @@||accounts.eu1.gigya.com^$important
@@ -93,25 +118,20 @@
 @@||www.msci.com^$important
 @@||images-*.ssl-images-amazon.com^$important
 @@||duckduckgo.com^$important
-@@||id.atlassian.com^$important
 @@||digid.nl^$important
 @@||cdn.accounts.nintendo.com^$important
 @@||mijn.overheid.nl^$important
-@@||www.crunch.co.uk^$important
-@@||accounts.crunch.co.uk^$important
-@@||my.crunch.co.uk^$important
 @@||www.abnamro.nl^$important
 @@||real-debrid.com^$important
-@@||www.iombank.com^$important
-@@||supportcentre.iombank.com^$important
 @@||www.gov.uk^$important
-@@||www.regus.nl^$important
-@@||www.regus.com^$important
-@@||community.revolut.com^$important
-@@||*.discourse-cdn.com^$important
 @@||cdn.buienradar.nl^$important
 @@||www.rvo.nl^$important
-@@||www.doingbusiness.org^$important
 @@||aka.hmrc.gov.uk^$important
 @@||assets.publishing.service.gov.uk^$important
 @@||pcc.magister.net^$important
+@@||metrics.kids.gynzy.com^$important
+@@||readspeaker.gynzy.com^$important
+@@||gynzy.imgix.net^$important
+@@||*.rijksoverheid.nl^$important
+@@||connect.appen.com^$important
+@@||live.adyen.com^$important
