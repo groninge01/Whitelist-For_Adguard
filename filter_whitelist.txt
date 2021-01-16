@@ -10,7 +10,6 @@
 ||eu.usefirefly.com^$important
 !
 ! Misc
-||adservice.google.com^$important
 !
 !
 ! Allow
@@ -90,11 +89,9 @@
 @@||powerpoint.officeapps.live.com^$important
 !
 ! Google
-@@||classroom.google.com^$important
 @@||forms.gle^$important
 @@||ajax.googleapis.com^$important
-@@||android.clients.google.com^$important
-@@||*.google.com^$important
+@@||*.google.com^$important, $domain=~adservice.google.com
 @@||www.google.nl^$important
 !
 ! myrenault app
