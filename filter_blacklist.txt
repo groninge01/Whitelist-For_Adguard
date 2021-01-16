@@ -1,13 +1,13 @@
 ! Block
 !
 ! iesnare (https://caanberry.com/what-is-iesnare-how-to-block-it/)
-||iesnare.com^
-||iesnare.co.uk^
-||iovation.com^
-||iovation.co.uk^
+||iesnare.com^$important
+||iesnare.co.uk^$important
+||iovation.com^$important
+||iovation.co.uk^$important
 !
 ! chat
-||eu.usefirefly.com^
+||eu.usefirefly.com^$important
 !
 ! Google
-||www.googleadservices.com^
+||www.googleadservices.com^$important
