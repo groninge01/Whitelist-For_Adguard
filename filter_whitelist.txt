@@ -159,8 +159,6 @@
 @@||aadcdn.msftauthimages.net^$important
 @@||static2.sharepointonline.com^$important
 @@||amcdn.msftauth.net^$important
-||s0-azure.assets-yammer.com^$important
-||www.yammer.com^$important
 @@||waconatm.officeapps.live.com^$important
 @@||statica.akamai.odsp.cdn.office.net^$important
 @@||modern.akamai.odsp.cdn.office.net^$important
@@ -202,16 +200,11 @@
 @@||self-hosted.cloudwise.app^$important
 @@||cool.cloudwise.eu^$important
 @@||m.attheraces.com^$important
-@@||data.mistat.intl.xiaomi.com^$important
 @@||random.org^$important
 @@||mobile.twitter.com^$important
 @@||www.independer.nl^$important
-@@||path3.xtracloud.net^$important
-@@||xtracloud.net^$important
 @@||www.juridischloket.nl^$important
 @@||updates-http.cdn-apple.com^$important
-@@||clientmetrics.betfair.com^$important
-@@||*.cloudfront.net^$important
 @@||www.topomania.net^$important
 @@||www.npo.nl^$important
 
