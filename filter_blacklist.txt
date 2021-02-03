@@ -11,3 +11,6 @@
 !
 ! Google
 ||www.googleadservices.com^$important
+!
+! Misc
+||metrics.kids.gynzy.com^$important
