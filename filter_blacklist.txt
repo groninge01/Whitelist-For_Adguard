@@ -14,3 +14,4 @@
 !
 ! Misc
 ||metrics.kids.gynzy.com^$important
+||analytics.linktr.ee^$important
