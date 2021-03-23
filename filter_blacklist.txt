@@ -15,3 +15,6 @@
 ! Misc
 ||metrics.kids.gynzy.com^$important
 ||analytics.linktr.ee^$important
+||tags.tiqcdn.com^$important
+||session.consumentenbond.nl^$important
+||analyze.standsapp.org^$important
