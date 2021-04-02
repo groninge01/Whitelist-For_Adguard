@@ -18,3 +18,4 @@
 ||tags.tiqcdn.com^$important
 ||session.consumentenbond.nl^$important
 ||analyze.standsapp.org^$important
+||script.adcalls.nl^$important
