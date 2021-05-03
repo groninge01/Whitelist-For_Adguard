@@ -1,21 +1,15 @@
-! Block
-!
 ! iesnare (https://caanberry.com/what-is-iesnare-how-to-block-it/)
 ||iesnare.com^$important
 ||iesnare.co.uk^$important
 ||iovation.com^$important
 ||iovation.co.uk^$important
 !
-! chat
 ||eu.usefirefly.com^$important
-!
-! Google
 ||www.googleadservices.com^$important
-!
-! Misc
 ||metrics.kids.gynzy.com^$important
 ||analytics.linktr.ee^$important
 ||tags.tiqcdn.com^$important
 ||session.consumentenbond.nl^$important
 ||analyze.standsapp.org^$important
 ||script.adcalls.nl^$important
+||abtesting.roblox.com^$important
